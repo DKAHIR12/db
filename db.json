@@ -1,0 +1,42 @@
+{
+  "id": 1,
+  "name": "Darshan",
+  "enno": "027",
+  "online": true
+}
+{
+  "id": 2,
+  "name": "Param",
+  "enno": "057",
+  "online": false
+}
+{
+  "id": 3,
+  "name": "Nishit",
+  "enno": "050",
+  "online": true
+}
+{
+  "id": 4,
+  "name": "Dharmik",
+  "enno": "029",
+  "online": false
+}
+{
+  "id": 5,
+  "name": "Meet",
+  "enno": "028",
+  "online": true
+}
+{
+  "id": 6,
+  "name": "Khush",
+  "enno": "063",
+  "online": false
+}
+{
+  "id": 7,
+  "name": "Aryan",
+  "enno": "026",
+  "online": true
+}
